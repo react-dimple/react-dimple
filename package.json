@@ -1,0 +1,17 @@
+{
+  "name": "react-dimple",
+  "version": "1.0.0",
+  "description": "React components for dimple charting library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "dimple",
+    "chart",
+    "d3"
+  ],
+  "author": "Vignesh Rajendran <vickyonit@gmail.com>",
+  "license": "ISC"
+}
